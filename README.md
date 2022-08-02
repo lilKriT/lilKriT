@@ -4,6 +4,7 @@
 
 ![html5 icon](https://user-images.githubusercontent.com/19374160/182269131-29f8b4bd-98ff-4ef9-814a-64faba1275d7.svg)
 ![css3 icon](https://user-images.githubusercontent.com/19374160/182269703-eb8d1b35-c01a-45da-b373-030fbc745852.svg)
+![js icon](https://user-images.githubusercontent.com/19374160/182269946-0b450e93-b9ab-4c96-a2b2-9396cb93f453.svg)
 
 
 
