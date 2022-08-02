@@ -10,6 +10,8 @@ I'm the best coder you've ever met.
 <img src="./img/html5 icon.svg" width="64">
 <img src="./img/css3 icon.svg" width="64">
 <img src="./img/js icon.svg" width="64">
+<img src="./img/github icon.svg" width="64">
+<img src="./img/tailwind icon.svg" width="64">
 </div>
 
 <!--
