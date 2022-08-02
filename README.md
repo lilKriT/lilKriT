@@ -1,6 +1,14 @@
 ### Hi there 👋
 
+## Some of the technologies that I'm using:
+
+![html5 icon](https://user-images.githubusercontent.com/19374160/182269131-29f8b4bd-98ff-4ef9-814a-64faba1275d7.svg)
+![css3 icon](https://user-images.githubusercontent.com/19374160/182269703-eb8d1b35-c01a-45da-b373-030fbc745852.svg)
+
+
+
 <!--
+
 **lilKriT/lilKriT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
