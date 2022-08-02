@@ -7,9 +7,9 @@ I'm the best coder you've ever met.
 ## Some of the technologies that I'm using:
 
 <div class="technologies">
-<img src="./img/html5 icon.svg">
-<img src="./img/css3 icon.svg">
-<img src="./img/js icon.svg">
+<img src="./img/html5 icon.svg" width="64">
+<img src="./img/css3 icon.svg" width="64">
+<img src="./img/js icon.svg" width="64">
 </div>
 
 <!--
