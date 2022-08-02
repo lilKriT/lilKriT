@@ -8,16 +8,16 @@ I'm the best coder you've ever met.
 ## Some of the technologies that I'm using:
 
 <div class="technologies">
-<img src="./img/html5-icon.svg" >
-<img src="./img/css3-icon.svg">
-<img src="./img/js-icon.svg">
-<!-- <img src="./img/github-icon.svg"> -->
-<img src="./img/git-icon.svg">
-<img src="./img/tailwind-icon.svg">
-<img src="./img/node-icon.svg">
-<img src="./img/react-icon.svg">
-<img src="./img/express-icon.svg">
-<img src="./img/mongo-icon.svg">
+<img src="./img/html5-icon.svg"  width="64">
+<img src="./img/css3-icon.svg" width="64">
+<img src="./img/js-icon.svg" width="64">
+<!-- <img src="./img/github-icon.svg" width=64> -->
+<img src="./img/git-icon.svg" width="64">
+<img src="./img/tailwind-icon.svg" width="64">
+<img src="./img/node-icon.svg" width="64">
+<img src="./img/react-icon.svg" width="64">
+<img src="./img/express-icon.svg" width="64">
+<img src="./img/mongo-icon.svg" width="64">
 
 </div>
 
