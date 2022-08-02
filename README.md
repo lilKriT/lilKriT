@@ -6,11 +6,11 @@ I'm the best coder you've ever met.
 
 ## Some of the technologies that I'm using:
 
-<ul class="technologies">
-    <li><img src="./img/html5 icon.svg"></li>
-    <li><img src="./img/css3 icon.svg"></li>
-    <li><img src="./img/js icon.svg"></li>
-</ul>
+<div class="technologies">
+<img src="./img/html5 icon.svg">
+<img src="./img/css3 icon.svg">
+<img src="./img/js icon.svg">
+</div>
 
 <!--
 
