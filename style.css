@@ -3,11 +3,3 @@
   padding: 0;
   box-sizing: border-box;
 }
-
-.technologies {
-  display: flex;
-}
-
-.technologies img {
-  width: 64px;
-}
