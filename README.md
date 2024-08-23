@@ -29,8 +29,8 @@ In my free time I enjoy video games, calisthenics and solving Rubik's cubes.
 <img src="./img/react-icon.svg" width="64">
 <img src="./img/next-dot-js-svgrepo-com(1).svg" width="64">
 <img src="./img/express-icon.svg" width="64">
-<img src="./img/prisma-svgrepo-com.svg" width="64">
-<img src="./img/postgresql-svgrepo-com.svg" width="64">
+<img src="./img/light-prisma-svgrepo-com.svg" width="64">
+<img src="./img/postgresql-svgrepo-com(1).svg" width="64">
 <img src="./img/mongo-icon.svg" width="64">
 
 </div>
