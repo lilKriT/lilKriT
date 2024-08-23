@@ -20,14 +20,14 @@ In my free time I enjoy video games, calisthenics and solving Rubik's cubes.
 <img src="./img/html5-icon.svg"  width="64">
 <img src="./img/css3-icon.svg" width="64">
 <img src="./img/js-icon.svg" width="64">
-<img src="./img/typescript-svgrepo-com.svg" width="64">
+<img src="./img/typescript-icon-svgrepo-com.svg" width="64">
 <!-- <img src="./img/github-icon.svg" width=64> -->
 <img src="./img/git-icon.svg" width="64">
 <img src="./img/light-pnpm-svgrepo-com.svg" width="64">
 <img src="./img/tailwind-icon.svg" width="64">
 <img src="./img/node-icon.svg" width="64">
 <img src="./img/react-icon.svg" width="64">
-<img src="./img/next-dot-js-svgrepo-com.svg" width="64">
+<img src="./img/next-dot-js-svgrepo-com(1).svg" width="64">
 <img src="./img/express-icon.svg" width="64">
 <img src="./img/prisma-svgrepo-com.svg" width="64">
 <img src="./img/postgresql-svgrepo-com.svg" width="64">
